@@ -1,8 +1,3 @@
 # multithreading_enrollment
-Assignment 3
-
-I am J
-
-
-Testing 
-
+To practice multithreading using C.
+simulate school enrollment process by using multithreading, lock, join methods.
